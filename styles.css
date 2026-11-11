@@ -1,0 +1,7 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: Arial, sans-serif; background: #0c121a; color: #fff; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+.contenedor-juego { background: #097264; padding: 2rem; border-radius: 12px; text-align: center; }
+h1 { color: #ffffff; margin-bottom: 0.5rem; }
+#mensaje { margin-bottom: 1rem; color: #d9e3e1; }
+canvas { background: #000000; border-radius: 8px; margin-bottom: 1.5rem; border: 1px solid #98ffb0; }
+button { padding: 0.6rem 1.2rem; background: #00440a; color: #fefdfc; border: none; font-weight: bold; border-radius: 6px; cursor: pointer; }
